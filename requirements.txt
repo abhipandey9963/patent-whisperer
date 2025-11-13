@@ -1,0 +1,7 @@
+streamlit
+elasticsearch
+sentence-transformers
+openai
+python-dotenv
+tqdm
+Pillow

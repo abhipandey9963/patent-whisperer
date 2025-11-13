@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Gesture-based Control System for AR Devices",
+    "abstract": "A system that uses infrared sensors to detect hand movements and translate them into commands within augmented reality headsets.",
+    "url": "https://patents.google.com/patent/US1234567"
+  },
+  {
+    "title": "Energy Efficient Implantable Medical Device",
+    "abstract": "An implantable device using solar micro-cells to maintain battery charge and reduce energy consumption for long-term operations.",
+    "url": "https://patents.google.com/patent/US7654321"
+  },
+  {
+    "title": "Swarm Coordination for Autonomous Drones",
+    "abstract": "A communication protocol and method for autonomous unmanned aerial vehicles to coordinate in formation and task execution.",
+    "url": "https://patents.google.com/patent/US2468135"
+  },
+  {
+    "title": "Smart Umbrella with Weather Sensing",
+    "abstract": "An umbrella equipped with environmental sensors and wireless communication to alert the user of changing weather patterns.",
+    "url": "https://patents.google.com/patent/US9988776"
+  },
+  {
+    "title": "AI-based Fraud Detection for Banking",
+    "abstract": "A machine learning system that analyzes transaction patterns to identify and prevent fraudulent activity in financial networks.",
+    "url": "https://patents.google.com/patent/US5637282"
+  },
+  {
+    "title": "Wearable Fitness Tracker with Heart Rate Monitoring",
+    "abstract": "A device worn on the wrist that continuously monitors heart rate, activity, and sleep patterns, syncing data to a mobile application.",
+    "url": "https://patents.google.com/patent/US8877665"
+  },
+  {
+    "title": "Biodegradable Packaging Material",
+    "abstract": "Packaging composed of plant-derived polymers that decompose naturally, reducing environmental waste.",
+    "url": "https://patents.google.com/patent/US5566778"
+  },
+  {
+    "title": "Blockchain for Supply Chain Traceability",
+    "abstract": "A system utilizing blockchain technology to ensure transparency and provenance tracking in global supply chains.",
+    "url": "https://patents.google.com/patent/US4356789"
+  },
+  {
+    "title": "Quantum Computing Processor",
+    "abstract": "An architecture for scalable quantum processors leveraging superconducting qubits and error correction techniques.",
+    "url": "https://patents.google.com/patent/US9988112"
+  },
+  {
+    "title": "Remote Patient Monitoring Platform",
+    "abstract": "A healthcare platform that aggregates data from various medical sensors, allowing physicians to monitor patient health remotely and in real time.",
+    "url": "https://patents.google.com/patent/US5647382"
+  },
+  {
+    "title": "Gesture-based Control System for AR Devices",
+    "abstract": "A system that uses infrared sensors to detect hand movements and translate them into commands within augmented reality headsets.",
+    "url": "https://patents.google.com/patent/US1234567"
+  },
+  {
+    "title": "Energy Efficient Implantable Medical Device",
+    "abstract": "An implantable device using solar micro-cells to maintain battery charge and reduce energy consumption for long-term operations.",
+    "url": "https://patents.google.com/patent/US7654321"
+  },
+  {
+    "title": "Swarm Coordination for Autonomous Drones",
+    "abstract": "A communication protocol and method for autonomous unmanned aerial vehicles to coordinate in formation and task execution.",
+    "url": "https://patents.google.com/patent/US2468135"
+  }
+]
